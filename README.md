@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @Rudransh Mishra
 - 👀 I’m interested in Full Stack Development and Competetive Coding.
-- 🌱 I’m currently learning SQL and React.
-- 💞️ I’m looking to collaborate on companies who have a motive of learning and growing
-- 📫 How to reach me ...
+- 🌱 I’m currently learning React.
+- 💞️ I’m looking to collaborate with people having passion and collabrative nature.
+- 📫 How to reach me | Email:- rudranshmishrawork@gmail.com | Phone Number:- 9057364891
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: 
+- ⚡ Fun fact: First computer covers over 1800ft in surface area.
 
-<!---
-rudransh-mishra-04/rudransh-mishra-04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
